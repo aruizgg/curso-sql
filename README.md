@@ -8,9 +8,12 @@
 
 Queremos hacer una aplicación donde cada usuario disponga de una lista para añadir tareas y marcarlas como completadas. Los usuarios se registrarán mediante correo y contraseña, aunque también nos interesa almacenar su nombre completo. Para cada tarea, queremos almacenar su título, descripción, estado (completada o no completada) y fecha límite para completarla.
 
-- Diseño Conceptual
-    
-    ![Conceptual.png](Ejercicio_1/Conceptual.png)
+<details>
+  <summary><strong>Diseño Conceptual</strong></summary>
+
+  ![Conceptual.png](Ejercicio_1/Conceptual.png)
+
+</details>  
     
 
 ---
@@ -23,9 +26,12 @@ Además, en la provincia existen varios garajes/parkings donde se estacionarán 
 
 Cada vehículo solo puede ser utilizado al mismo tiempo por un taxista, y nuestra aplicación permitirá definir el periodo en el cual dicho taxista conduce el vehículo, por ejemplo desde el 12 de abril de 2022 hasta el 16 de octubre de 2022.
 
-- Diseño Conceptual
-    
-    ![Conceptual.png](Ejercicio_2/Conceptual.png)
+<details>
+  <summary><strong>Diseño Conceptual</strong></summary>
+
+  ![Conceptual.png](Ejercicio_2/Conceptual.png)
+
+</details>  
     
 
 ---
@@ -40,9 +46,12 @@ Los dueños de las salas podrán crear roles y asignarlos a otros usuarios. De c
 
 Finalmente, queremos almacenar la fecha incluyendo hora y minuto de cada mensaje que se envía en cada sala, así como el usuario que lo ha enviado.
 
-- Diseño Conceptual
-    
-    ![Conceptual.png](Ejercicio_3/Conceptual.png)
+<details>
+  <summary><strong>Diseño Conceptual</strong></summary>
+
+  ![Conceptual.png](Ejercicio_3/Conceptual.png)
+
+</details>  
     
 
 ---
@@ -55,10 +64,13 @@ Los seguros pueden cubrir gastos de reparación en caso de daños para propiedad
 
 El cliente podrá elegir cuál es el porcentaje de los gastos totales de reparación que cubrirá el seguro al contratarlo, por ejemplo un 40%. Este dato también será necesario para calcular el precio anual.
 
-- Diseño Conceptual
-    
-    ![Conceptual.png](Ejercicio_4/Conceptual.png)
-    
+<details>
+  <summary><strong>Diseño Conceptual</strong></summary>
+
+  ![Conceptual.png](Ejercicio_4/Conceptual.png)
+
+</details>    
+
 
 ---
 
@@ -67,6 +79,15 @@ El cliente podrá elegir cuál es el porcentaje de los gastos totales de reparac
 Nuestra empresa cuenta con varias oficinas situadas en edificios diferentes y en cada una de ellas se encuentran distintos departamentos. Los edificios tienen un número asociado, que es único entre los edificios de la misma ciudad pero puede repetirse para edificios de ciudades distintas.
 
 Sobre los departamentos queremos almacenar su nombre, que es único, su número de departamento, que también es único, y su presupuesto anual. Por otro lado, queremos saber en qué departamento trabaja cada empleado, para lo cual disponemos de su número de empleado, que es único dentro de cada departamento, pero puede repetirse para empleados de diferentes departamentos. Y para terminar, los empleados pueden tener a su cargo a otros empleados, queremos almacenar esta información.
+
+<details>
+  <summary><strong>Diseño Conceptual</strong></summary>
+
+  ![Conceptual.png](Ejercicio_5/Conceptual.png)
+
+</details>  
+
+
 
 ---
 
