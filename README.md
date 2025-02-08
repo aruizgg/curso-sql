@@ -101,6 +101,13 @@ Un usuario puede seguir los perfiles de otros usuarios para ver su contenido, y 
 
 Los usuarios podrán escribir comentarios en los posts de otros usuarios o en sus propios posts. De cada comentario nos interesa almacenar el texto y la fecha en la que se ha publicado.
 
+<details>
+  <summary><strong>Diseño Conceptual</strong></summary>
+
+  ![Conceptual.png](Ejercicio_6/Conceptual.png)
+
+</details>  
+
 ---
 
 ## **Reto: Ecommerce**
