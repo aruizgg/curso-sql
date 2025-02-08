@@ -1,6 +1,6 @@
 # curso-sql-mastermind
 
-# Curso de Bases de Datos Relacionales con MySQL de MasterMind
+> Curso de Bases de Datos Relacionales con MySQL de MasterMind
 
 ---
 
