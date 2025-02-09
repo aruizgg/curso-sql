@@ -38,7 +38,12 @@ Cada vehículo solo puede ser utilizado al mismo tiempo por un taxista, y nuestr
   ![Conceptual.png](Ejercicio_2/Conceptual.png)
 
 </details>  
-    
+<details>
+  <summary><strong>Diseño Lógico</strong></summary>
+
+  ![Conceptual.png](Ejercicio_2/Lógico.png)
+
+</details>     
 
 ---
 
