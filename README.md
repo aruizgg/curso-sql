@@ -120,6 +120,13 @@ Los usuarios, además de vender, podrán comprar productos de otras tiendas. Par
 
 Además, necesitamos saber a dónde enviar el paquete, de forma que los usuarios podrán asociar a su cuenta varias direcciones de envío y elegir una de ellas al crear un pedido. La dirección estará compuesta por los siguientes campos: país, provincia, ciudad, calle, número y, opcionalmente, unidad (número de apartamentos, puerta, etc.). Esta dirección la almacenaremos junto con los otros campos del pedido. Por último, como el pedido puede tardar varios días en prepararse, enviarse y llegar a su destino, queremos almacenar su estado ("procesando", "enviado", "entregado", "cancelado").
 
+<details>
+  <summary><strong>Diseño Conceptual</strong></summary>
+
+  ![Conceptual.png](Reto/Conceptual.png)
+
+</details>  
+
 ---
 
 ## **Proyecto final: App de pagos**
