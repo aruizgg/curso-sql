@@ -1,6 +1,6 @@
-# curso-sql-mastermind
+# curso-sql
 
-> Curso de Bases de Datos Relacionales con MySQL de MasterMind
+> Curso de Bases de Datos Relacionales con MySQL
 
 ---
 
@@ -12,6 +12,12 @@ Queremos hacer una aplicación donde cada usuario disponga de una lista para añ
   <summary><strong>Diseño Conceptual</strong></summary>
 
   ![Conceptual.png](Ejercicio_1/Conceptual.png)
+
+</details>  
+<details>
+  <summary><strong>Diseño Lógico</strong></summary>
+
+  ![Conceptual.png](Ejercicio_1/Lógico.png)
 
 </details>  
     
