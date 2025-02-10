@@ -87,7 +87,11 @@ El cliente podrá elegir cuál es el porcentaje de los gastos totales de reparac
   ![Conceptual.png](Ejercicio_4/Conceptual.png)
 
 </details>    
+  <summary><strong>Diseño Lógico</strong></summary>
 
+  ![Lógico.png](Ejercicio_4/Lógico.png)
+
+</details>  
 
 ---
 
