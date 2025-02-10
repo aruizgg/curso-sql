@@ -14,6 +14,7 @@ Queremos hacer una aplicación donde cada usuario disponga de una lista para añ
   ![Conceptual.png](Ejercicio_1/Conceptual.png)
 
 </details>  
+
 <details>
   <summary><strong>Diseño Lógico</strong></summary>
 
@@ -38,6 +39,7 @@ Cada vehículo solo puede ser utilizado al mismo tiempo por un taxista, y nuestr
   ![Conceptual.png](Ejercicio_2/Conceptual.png)
 
 </details>  
+
 <details>
   <summary><strong>Diseño Lógico</strong></summary>
 
@@ -63,7 +65,7 @@ Finalmente, queremos almacenar la fecha incluyendo hora y minuto de cada mensaje
   ![Conceptual.png](Ejercicio_3/Conceptual.png)
 
 </details>  
- </details>  
+
 <details>
   <summary><strong>Diseño Lógico</strong></summary>
 
@@ -86,7 +88,9 @@ El cliente podrá elegir cuál es el porcentaje de los gastos totales de reparac
 
   ![Conceptual.png](Ejercicio_4/Conceptual.png)
 
-</details>    
+</details>
+
+<details> 
   <summary><strong>Diseño Lógico</strong></summary>
 
   ![Lógico.png](Ejercicio_4/Lógico.png)
@@ -108,6 +112,12 @@ Sobre los departamentos queremos almacenar su nombre, que es único, su número 
 
 </details>  
 
+<details>    
+  <summary><strong>Diseño Lógico</strong></summary>
+
+  ![Lógico.png](Ejercicio_5/Lógico.png)
+
+</details>  
 
 
 ---
