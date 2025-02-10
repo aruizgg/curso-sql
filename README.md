@@ -17,7 +17,7 @@ Queremos hacer una aplicación donde cada usuario disponga de una lista para añ
 <details>
   <summary><strong>Diseño Lógico</strong></summary>
 
-  ![Conceptual.png](Ejercicio_1/Lógico.png)
+  ![Lógico.png](Ejercicio_1/Lógico.png)
 
 </details>  
     
@@ -41,7 +41,7 @@ Cada vehículo solo puede ser utilizado al mismo tiempo por un taxista, y nuestr
 <details>
   <summary><strong>Diseño Lógico</strong></summary>
 
-  ![Conceptual.png](Ejercicio_2/Lógico.png)
+  ![Lógico.png](Ejercicio_2/Lógico.png)
 
 </details>     
 
@@ -63,7 +63,13 @@ Finalmente, queremos almacenar la fecha incluyendo hora y minuto de cada mensaje
   ![Conceptual.png](Ejercicio_3/Conceptual.png)
 
 </details>  
-    
+ </details>  
+<details>
+  <summary><strong>Diseño Lógico</strong></summary>
+
+  ![Lógico.png](Ejercicio_3/Lógico.png)
+
+</details>      
 
 ---
 
