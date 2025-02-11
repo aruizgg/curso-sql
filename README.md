@@ -137,7 +137,13 @@ Los usuarios podrán escribir comentarios en los posts de otros usuarios o en su
 
   ![Conceptual.png](Ejercicio_6/Conceptual.png)
 
-</details>  
+</details> 
+<details>    
+  <summary><strong>Diseño Lógico</strong></summary>
+
+  ![Lógico.png](Ejercicio_6/Lógico.png)
+
+</details>   
 
 ---
 
