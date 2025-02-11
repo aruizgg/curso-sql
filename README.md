@@ -163,6 +163,12 @@ Además, necesitamos saber a dónde enviar el paquete, de forma que los usuarios
   ![Conceptual.png](Reto/Conceptual.png)
 
 </details>  
+<details>    
+  <summary><strong>Diseño Lógico</strong></summary>
+
+  ![Lógico.png](Reto/Lógico.png)
+
+</details>  
 
 ---
 
