@@ -24,7 +24,7 @@ Queremos hacer una aplicación donde cada usuario disponga de una lista para añ
 <details>
   <summary><strong>Diseño Físico</strong></summary>
 
-  ``` 
+  ```MySQL 
   DROP DATABASE IF EXISTS ejercicio_1;
 
 CREATE DATABASE ejercicio_1;
@@ -83,7 +83,7 @@ Cada vehículo solo puede ser utilizado al mismo tiempo por un taxista, y nuestr
 <details>
   <summary><strong>Diseño Físico</strong></summary>
 
-  ``` 
+  ```MySQL  
   DROP DATABASE IF EXISTS ejercicio_2;
 
 CREATE DATABASE ejercicio_2;
