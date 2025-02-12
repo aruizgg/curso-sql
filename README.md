@@ -145,6 +145,7 @@ CREATE TABLE driver_verhicle (
     ON DELETE CASCADE
 );
   ```
+</details> 
 
 ---
 
